@@ -257,6 +257,19 @@ class MoneyToStr {
         "-KopTwoUnit" => "копійки",
         "-KopFiveUnit" => "копійок",
         "-KopSex" => "F"
+      ),
+      array(
+          "-CurrID" => "980",
+          "-CurrName" => "Ukrainian hryvnia",
+          "-language" => "ENG",
+          "-RubOneUnit" => "hryvnya",
+          "-RubTwoUnit" => "hryvni",
+          "-RubFiveUnit" => "hryvenʹ",
+          "-RubSex" => "F",
+          "-KopOneUnit" => "kopiyka",
+          "-KopTwoUnit" => "kopiyky",
+          "-KopFiveUnit" => "kopiyok",
+          "-KopSex" => "F"
       )
     ),
     "USD" => array(
