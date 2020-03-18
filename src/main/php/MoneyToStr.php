@@ -199,7 +199,7 @@ class MoneyToStr {
         ),
         array(
           "-value" => "20_90",
-          "-text" => "twenty-,thirty-,forty-,fifty-,sixty-,seventy-,eighty-,ninety-"
+          "-text" => "twenty ,thirty ,forty ,fifty ,sixty ,seventy ,eighty ,ninety "
         )
       )
     ),
