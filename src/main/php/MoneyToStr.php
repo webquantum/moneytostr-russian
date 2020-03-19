@@ -263,12 +263,12 @@ class MoneyToStr {
           "-CurrName" => "Ukrainian hryvnia",
           "-language" => "ENG",
           "-RubOneUnit" => "hryvnya",
-          "-RubTwoUnit" => "hryvni",
-          "-RubFiveUnit" => "hryvenʹ",
+          "-RubTwoUnit" => "hryvnya",
+          "-RubFiveUnit" => "hryvnya",
           "-RubSex" => "F",
           "-KopOneUnit" => "kopiyka",
-          "-KopTwoUnit" => "kopiyky",
-          "-KopFiveUnit" => "kopiyok",
+          "-KopTwoUnit" => "kopiyka",
+          "-KopFiveUnit" => "kopiyka",
           "-KopSex" => "F"
       )
     ),
